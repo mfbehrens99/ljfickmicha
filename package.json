@@ -26,6 +26,6 @@
   "homepage": "https://github.com/mfbehrens99/ljfickmicha#readme",
   "dependencies": {
     "grandma2": "^0.0.1",
-    "midiabstract": "^1.0.0"
+    "midiabstract": "^1.1.0"
   }
 }
