@@ -1,0 +1,31 @@
+{
+  "name": "ljfickmicha",
+  "version": "0.0.1",
+  "description": "K2-Bar LJ controller mapping",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfbehrens99/ljfickmicha.git"
+  },
+  "keywords": [
+    "midi",
+    "lj",
+    "light",
+    "grandma",
+    "arena"
+  ],
+  "author": "kilianspeder,mfbehrens99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfbehrens99/ljfickmicha/issues"
+  },
+  "homepage": "https://github.com/mfbehrens99/ljfickmicha#readme",
+  "dependencies": {
+    "grandma2": "^0.0.1",
+    "midiabstract": "^1.0.0"
+  }
+}
